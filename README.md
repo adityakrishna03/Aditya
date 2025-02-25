@@ -1,5 +1,11 @@
 # 💫 About Me:
-🎓 I'm currently studying: Computer Science & Engineering at VIT Vellore (CGPA: 8.61)<br>📊 I'm currently working on: Data Analytics, PowerBI Dashboards, and Backend Development<br>🤝 I'm looking to collaborate on: Data Engineering, AI/ML projects, and Full Stack Development<br>🆘 I'm looking for help with: Optimizing backend performance and advanced cloud deployments<br>📖 I'm currently learning: AWS Cloud Solutions, CI/CD Pipelines, and DevOps Best Practices<br>💡 Ask me about: PowerBI, SQL, Docker, Backend APIs, and Cloud Architecture<br>🎭 Fun fact: I automated a logistics system that improved efficiency by 70% 🚀
+💻 **I'm currently studying**: Computer Science & Engineering at VIT Vellore (CGPA: 8.61)  
+📊 **I'm currently working on**: Backend Development, Data Analytics, and Cloud Computing  
+🤝 **I'm looking to collaborate on**: Scalable backend systems, cloud-native applications, and data pipelines  
+🆘 **I'm looking for help with**: Advanced cloud optimizations and high-performance API development  
+📖 **I'm currently learning**: AWS Solutions Architecture, Kubernetes, and CI/CD automation  
+💡 **Ask me about**: Node.js, Express.js, SQL, Docker, AWS, and API design best practices  
+🚀 **Fun fact**: I automated a logistics system that improved efficiency by 70%!  
 
 
 ## 🌐 Socials:
